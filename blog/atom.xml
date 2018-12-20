@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://ricardor4420.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://ricardor4420.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://ricardpr4420.github.io/blog</id>
+	<id>http://ricardor4420.github.io/blog</id>
 	<author>
 		<name>Ricardo Rodriguez</name>
 		<email>ricardor4420@afsenyc.org</email>
